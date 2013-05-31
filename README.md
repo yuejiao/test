@@ -1,4 +1,4 @@
-zhuang xiao jing
+xiao jing
 #test
 #my first GitHub project
 This is test project (https://github.com/yuejiao/test),welcom.
