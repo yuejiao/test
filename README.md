@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 xiao jing
+=======
+zhuang jing
+>>>>>>> refs/top-bases/t/feature3
 #test
 #my first GitHub project
 This is test project (https://github.com/yuejiao/test),welcom.
